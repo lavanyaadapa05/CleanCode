@@ -28,7 +28,7 @@ This project is an **AI-powered chatbot** that evaluates code cleanliness based 
 
 ## Demo Video 🎥
 
-[Watch the demo](YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Watch the demo](https://drive.google.com/file/d/1dCDi_qfh9ub2t8757PNdfYuDplt5Xrs1/view?usp=sharing)
 
 
 
